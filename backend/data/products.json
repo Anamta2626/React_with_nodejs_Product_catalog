@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Laptop", "category": "Electronics", "price": 999, "image": "/images/laptop.avif" },
+  { "id": 2, "name": "Chair", "category": "Furniture", "price": 199, "image": "/images/chair.avif" },
+  { "id": 3, "name": "Headphones", "category": "Electronics", "price": 99, "image": "/images/headphones.avif" },
+  { "id": 4, "name": "Desk", "category": "Furniture", "price": 299, "image": "/images/desk.avif" },
+  { "id": 5, "name": "Camera", "category": "Electronics", "price": 499, "image": "/images/camera.avif" },
+  { "id": 6, "name": "Bookshelf", "category": "Furniture", "price": 150, "image": "/images/bookshelf.avif" },
+  { "id": 7, "name": "Smartphone", "category": "Electronics", "price": 899, "image": "/images/smartphone.avif" },
+  { "id": 8, "name": "Table Lamp", "category": "Furniture", "price": 45, "image": "/images/lamp.avif" },
+  { "id": 9, "name": "Smartwatch", "category": "Electronics", "price": 199, "image": "/images/smartwatch.avif" },
+  { "id": 10, "name": "Sofa", "category": "Furniture", "price": 799, "image": "/images/sofa.avif" },
+  { "id": 11, "name": "Monitor", "category": "Electronics", "price": 299, "image": "/images/monitor.avif" },
+  { "id": 12, "name": "Coffee Table", "category": "Furniture", "price": 149, "image": "/images/coffee-table.avif" },
+  { "id": 13, "name": "Wireless Mouse", "category": "Electronics", "price": 25, "image": "/images/mouse.avif" },
+  { "id": 14, "name": "Wardrobe", "category": "Furniture", "price": 399, "image": "/images/wardrobe.avif" },
+  { "id": 15, "name": "Bluetooth Speaker", "category": "Electronics", "price": 85, "image": "/images/speaker.avif" }
+]

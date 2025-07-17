@@ -1,0 +1,23 @@
+.filter-select {
+  display: block;
+  margin: 0 auto 25px;
+  padding: 14px 20px;
+  width: 300px; /* Wider */
+  font-size: 16px;
+  border-radius: 12px;
+  border: 1px solid #e3d5cc;
+  background-color: #fff7f2;
+  color: #5c3d32;
+  cursor: pointer;
+  transition: border 0.3s ease, background 0.3s ease;
+  outline: none;
+  box-shadow: 0 3px 6px rgba(211, 158, 133, 0.1);
+}
+
+.filter-select:hover {
+  border-color: #d39e85;
+  background-color: #fff0e8;
+}
+
+
+
